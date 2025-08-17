@@ -23,7 +23,7 @@ android {
             useSupportLibrary = true
         }
 
-        buildConfigField("String", "API_BASE_URL", "\"https://de1.api.radio-browser.info\"")
+        buildConfigField("String", "API_BASE_URL", "\"https://de1.api.radio-browser.info/json/\"")
     }
 
     buildTypes {

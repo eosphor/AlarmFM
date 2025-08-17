@@ -34,6 +34,12 @@ object NetworkModule {
             .connectTimeout(30, TimeUnit.SECONDS)
             .readTimeout(30, TimeUnit.SECONDS)
             .writeTimeout(30, TimeUnit.SECONDS)
+            .addInterceptor { chain ->
+                val request = chain.request().newBuilder()
+                    .addHeader("User-Agent", "AlarmFM/1.0.0")
+                    .build()
+                chain.proceed(request)
+            }
         
         if (BuildConfig.DEBUG) {
             val loggingInterceptor = HttpLoggingInterceptor()
@@ -46,14 +52,20 @@ object NetworkModule {
     
     @Provides
     @Singleton
-    fun provideRetrofit(okHttpClient: OkHttpClient, moshi: Moshi): Retrofit {
+    fun provideRetrofitBuilder(okHttpClient: OkHttpClient, moshi: Moshi): Retrofit.Builder {
         return Retrofit.Builder()
-            .baseUrl(BuildConfig.API_BASE_URL)
             .client(okHttpClient)
             .addConverterFactory(MoshiConverterFactory.create(moshi))
+    }
+
+    @Provides
+    @Singleton
+    fun provideRetrofit(retrofitBuilder: Retrofit.Builder): Retrofit {
+        return retrofitBuilder
+            .baseUrl(BuildConfig.API_BASE_URL)
             .build()
     }
-    
+
     @Provides
     @Singleton
     fun provideRadioBrowserApi(retrofit: Retrofit): RadioBrowserApi {
