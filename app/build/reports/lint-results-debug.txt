@@ -1,0 +1,233 @@
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:86: Warning: A newer version of androidx.core:core-ktx than 1.12.0 is available: 1.17.0 [GradleDependency]
+    implementation("androidx.core:core-ktx:1.12.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:87: Warning: A newer version of androidx.appcompat:appcompat than 1.6.1 is available: 1.7.1 [GradleDependency]
+    implementation("androidx.appcompat:appcompat:1.6.1")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:88: Warning: A newer version of androidx.activity:activity-compose than 1.8.2 is available: 1.10.1 [GradleDependency]
+    implementation("androidx.activity:activity-compose:1.8.2")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:89: Warning: A newer version of androidx.lifecycle:lifecycle-runtime-ktx than 2.7.0 is available: 2.9.2 [GradleDependency]
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:90: Warning: A newer version of androidx.lifecycle:lifecycle-viewmodel-compose than 2.7.0 is available: 2.9.2 [GradleDependency]
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:91: Warning: A newer version of androidx.lifecycle:lifecycle-runtime-compose than 2.7.0 is available: 2.9.2 [GradleDependency]
+    implementation("androidx.lifecycle:lifecycle-runtime-compose:2.7.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:92: Warning: A newer version of androidx.navigation:navigation-compose than 2.7.5 is available: 2.9.3 [GradleDependency]
+    implementation("androidx.navigation:navigation-compose:2.7.5")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:93: Warning: A newer version of androidx.hilt:hilt-navigation-compose than 1.1.0 is available: 1.2.0 [GradleDependency]
+    implementation("androidx.hilt:hilt-navigation-compose:1.1.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:94: Warning: A newer version of androidx.datastore:datastore-preferences than 1.0.0 is available: 1.1.7 [GradleDependency]
+    implementation("androidx.datastore:datastore-preferences:1.0.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:95: Warning: A newer version of androidx.work:work-runtime-ktx than 2.9.0 is available: 2.10.3 [GradleDependency]
+    implementation("androidx.work:work-runtime-ktx:2.9.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:96: Warning: A newer version of com.android.tools:desugar_jdk_libs than 2.0.4 is available: 2.1.5 [GradleDependency]
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.4")
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:110: Warning: A newer version of androidx.hilt:hilt-work than 1.1.0 is available: 1.2.0 [GradleDependency]
+    implementation("androidx.hilt:hilt-work:1.1.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:111: Warning: A newer version of androidx.hilt:hilt-compiler than 1.1.0 is available: 1.2.0 [GradleDependency]
+    kapt("androidx.hilt:hilt-compiler:1.1.0")
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:114: Warning: A newer version of androidx.room:room-runtime than 2.6.1 is available: 2.7.2 [GradleDependency]
+    implementation("androidx.room:room-runtime:2.6.1")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:115: Warning: A newer version of androidx.room:room-ktx than 2.6.1 is available: 2.7.2 [GradleDependency]
+    implementation("androidx.room:room-ktx:2.6.1")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:116: Warning: A newer version of androidx.room:room-compiler than 2.6.1 is available: 2.7.2 [GradleDependency]
+    kapt("androidx.room:room-compiler:2.6.1")
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:127: Warning: A newer version of androidx.media3:media3-exoplayer than 1.2.0 is available: 1.8.0 [GradleDependency]
+    implementation("androidx.media3:media3-exoplayer:1.2.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:128: Warning: A newer version of androidx.media3:media3-ui than 1.2.0 is available: 1.8.0 [GradleDependency]
+    implementation("androidx.media3:media3-ui:1.2.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:129: Warning: A newer version of androidx.media3:media3-session than 1.2.0 is available: 1.8.0 [GradleDependency]
+    implementation("androidx.media3:media3-session:1.2.0")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:149: Warning: A newer version of androidx.test.ext:junit than 1.1.5 is available: 1.3.0 [GradleDependency]
+    androidTestImplementation("androidx.test.ext:junit:1.1.5")
+                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:150: Warning: A newer version of androidx.test.espresso:espresso-core than 3.5.1 is available: 3.7.0 [GradleDependency]
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "GradleDependency":
+   This detector looks for usages of libraries where the version you are using
+   is not the current stable release. Using older versions is fine, and there
+   are cases where you deliberately want to stick with an older version.
+   However, you may simply not be aware that a more recent version is
+   available, and that is what this lint check helps find.
+
+/home/ubuntu/repos/alarmfm-android/app/src/main/java/com/alarmfm/radio/presentation/receiver/AlarmReceiver.kt:26: Warning: Using 'Log' instead of 'Timber' [LogNotTimber from com.jakewharton.timber:timber:{version}]
+        Log.d("AlarmReceiver", "Alarm triggered")
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/java/com/alarmfm/radio/presentation/receiver/AlarmReceiver.kt:56: Warning: Using 'Log' instead of 'Timber' [LogNotTimber from com.jakewharton.timber:timber:{version}]
+        Log.d("AlarmReceiver", "Starting radio playback for alarm $alarmId with station: ${station.name}")
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/java/com/alarmfm/radio/presentation/receiver/BootCompletedReceiver.kt:25: Warning: Using 'Log' instead of 'Timber' [LogNotTimber from com.jakewharton.timber:timber:{version}]
+            Log.d("BootCompletedReceiver", "Device boot completed, rescheduling alarms")
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/java/com/alarmfm/radio/presentation/receiver/BootCompletedReceiver.kt:32: Warning: Using 'Log' instead of 'Timber' [LogNotTimber from com.jakewharton.timber:timber:{version}]
+                            Log.d("BootCompletedReceiver", "Rescheduling alarm: ${alarm.id}")
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/java/com/alarmfm/radio/presentation/receiver/BootCompletedReceiver.kt:36: Warning: Using 'Log' instead of 'Timber' [LogNotTimber from com.jakewharton.timber:timber:{version}]
+                    Log.e("BootCompletedReceiver", "Error rescheduling alarms", e)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "LogNotTimber":
+   Since Timber is included in the project, it is likely that calls to Log
+   should instead be going to Timber.
+
+   Vendor: JakeWharton/timber
+   Identifier: com.jakewharton.timber:timber:{version}
+   Feedback: https://github.com/JakeWharton/timber/issues
+
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:116: Warning: This library supports using KSP instead of kapt, which greatly improves performance. Learn more: https://developer.android.com/studio/build/migrate-to-ksp [KaptUsageInsteadOfKsp]
+    kapt("androidx.room:room-compiler:2.6.1")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/build.gradle.kts:124: Warning: This library supports using KSP instead of kapt, which greatly improves performance. Learn more: https://developer.android.com/studio/build/migrate-to-ksp [KaptUsageInsteadOfKsp]
+    kapt("com.squareup.moshi:moshi-kotlin-codegen:1.15.0")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "KaptUsageInsteadOfKsp":
+   KSP is a more efficient replacement for kapt. For libraries that support
+   both, KSP should be used to improve build times.
+
+   https://developer.android.com/studio/build/migrate-to-ksp
+
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:4: Warning: The resource R.string.discover appears to be unused [UnusedResources]
+    <string name="discover">Обзор</string>
+            ~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:6: Warning: The resource R.string.search appears to be unused [UnusedResources]
+    <string name="search">Поиск</string>
+            ~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:9: Warning: The resource R.string.play appears to be unused [UnusedResources]
+    <string name="play">Воспроизвести</string>
+            ~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:10: Warning: The resource R.string.pause appears to be unused [UnusedResources]
+    <string name="pause">Пауза</string>
+            ~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:11: Warning: The resource R.string.stop appears to be unused [UnusedResources]
+    <string name="stop">Остановить</string>
+            ~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:17: Warning: The resource R.string.add_to_favorites appears to be unused [UnusedResources]
+    <string name="add_to_favorites">Добавить в избранное</string>
+            ~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:18: Warning: The resource R.string.remove_from_favorites appears to be unused [UnusedResources]
+    <string name="remove_from_favorites">Удалить из избранного</string>
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:21: Warning: The resource R.string.recently_played appears to be unused [UnusedResources]
+    <string name="recently_played">Недавно воспроизведенные</string>
+            ~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:22: Warning: The resource R.string.categories appears to be unused [UnusedResources]
+    <string name="categories">Категории</string>
+            ~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:23: Warning: The resource R.string.now_playing appears to be unused [UnusedResources]
+    <string name="now_playing">Сейчас играет</string>
+            ~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:24: Warning: The resource R.string.notification_channel_name appears to be unused [UnusedResources]
+    <string name="notification_channel_name">Воспроизведение радио</string>
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:25: Warning: The resource R.string.notification_channel_description appears to be unused [UnusedResources]
+    <string name="notification_channel_description">Уведомления о воспроизведении радиостанций</string>
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:26: Warning: The resource R.string.alarm_channel_name appears to be unused [UnusedResources]
+    <string name="alarm_channel_name">Будильники</string>
+            ~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:27: Warning: The resource R.string.alarm_channel_description appears to be unused [UnusedResources]
+    <string name="alarm_channel_description">Уведомления будильников</string>
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "UnusedResources":
+   Unused resources make applications larger and slow down builds.
+
+
+   The unused resource check can ignore tests. If you want to include
+   resources that are only referenced from tests, consider packaging them in a
+   test source set instead.
+
+   You can include test sources in the unused resource check by setting the
+   system property lint.unused-resources.include-tests =true, and to exclude
+   them (usually for performance reasons), use
+   lint.unused-resources.exclude-tests =true.
+   ,
+
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:12: Warning: Replace "..." with ellipsis character (…, &#8230;) ? [TypographyEllipsis]
+    <string name="loading">Загрузка...</string>
+                           ~~~~~~~~~~~
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/values/strings.xml:19: Warning: Replace "..." with ellipsis character (…, &#8230;) ? [TypographyEllipsis]
+    <string name="search_stations">Поиск станций...</string>
+                                   ~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "TypographyEllipsis":
+   You can replace the string "..." with a dedicated ellipsis character,
+   ellipsis character (u2026, &#8230;). This can help make the text more
+   readable.
+
+   https://en.wikipedia.org/wiki/Ellipsis
+
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-hdpi/ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-mdpi/ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-xhdpi/ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png: Warning: Launcher icon used as round icon did not have a circular shape [IconLauncherShape]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png: Warning: Launcher icon used as round icon did not have a circular shape [IconLauncherShape]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png: Warning: Launcher icon used as round icon did not have a circular shape [IconLauncherShape]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png: Warning: Launcher icon used as round icon did not have a circular shape [IconLauncherShape]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png: Warning: Launcher icon used as round icon did not have a circular shape [IconLauncherShape]
+
+   Explanation for issues of type "IconLauncherShape":
+   According to the Android Design Guide
+   (https://d.android.com/r/studio-ui/designer/material/iconography) your
+   launcher icons should "use a distinct silhouette", a "three-dimensional,
+   front view, with a slight perspective as if viewed from above, so that
+   users perceive some depth."
+
+   The unique silhouette implies that your launcher icon should not be a
+   filled square.
+
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml:2: Warning: The application adaptive icon is missing a monochrome tag [MonochromeLauncherIcon]
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+^
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml:2: Warning: The application adaptive roundIcon is missing a monochrome tag [MonochromeLauncherIcon]
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+^
+
+   Explanation for issues of type "MonochromeLauncherIcon":
+   If android:roundIcon and android:icon are both in your manifest, you must
+   either remove the reference to android:roundIcon if it is not needed; or,
+   supply the monochrome icon in the drawable defined by the android:roundIcon
+   and android:icon attribute.
+
+   For example, if android:roundIcon and android:icon are both in the
+   manifest, a launcher might choose to use android:roundIcon over
+   android:icon to display the adaptive app icon. Therefore, your themed
+   application iconwill not show if your monochrome attribute is not also
+   specified in android:roundIcon.
+
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png: Warning: The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png [IconDuplicates]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png: Warning: The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png [IconDuplicates]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png: Warning: The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png [IconDuplicates]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png: Warning: The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png [IconDuplicates]
+/home/ubuntu/repos/alarmfm-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png: Warning: The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_round.png [IconDuplicates]
+
+   Explanation for issues of type "IconDuplicates":
+   If an icon is repeated under different names, you can consolidate and just
+   use one of the icons and delete the others to make your application
+   smaller. However, duplicated icons usually are not intentional and can
+   sometimes point to icons that were accidentally overwritten or accidentally
+   not updated.
+
+0 errors, 61 warnings

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="alarm_channel_description">Уведомления будильников</string>
+    <string name="alarm_channel_name">Будильники</string>
+    <string name="alarms">Будильники</string>
+    <string name="app_name">AlarmFM</string>
+    <string name="categories">Категории</string>
+    <string name="discover">Обзор</string>
+    <string name="error">Ошибка</string>
+    <string name="favorites">Избранное</string>
+    <string name="loading">Загрузка...</string>
+    <string name="no_favorites">Нет избранных станций</string>
+    <string name="no_stations_found">Станции не найдены</string>
+    <string name="notification_channel_description">Уведомления о воспроизведении радиостанций</string>
+    <string name="notification_channel_name">Воспроизведение радио</string>
+    <string name="now_playing">Сейчас играет</string>
+    <string name="pause">Пауза</string>
+    <string name="play">Воспроизвести</string>
+    <string name="popular_stations">Популярные станции</string>
+    <string name="recently_played">Недавно воспроизведенные</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="retry">Повторить</string>
+    <string name="search">Поиск</string>
+    <string name="search_stations">Поиск станций...</string>
+    <string name="settings">Настройки</string>
+    <string name="stop">Остановить</string>
+    <style name="Theme.AlarmFM" parent="Theme.AppCompat.DayNight.NoActionBar"/>
+</resources>

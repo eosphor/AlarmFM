@@ -1,0 +1,27 @@
+-if class com.alarmfm.radio.data.model.CountryDto
+-keepnames class com.alarmfm.radio.data.model.CountryDto
+-if class com.alarmfm.radio.data.model.CountryDto
+-keep class com.alarmfm.radio.data.model.CountryDtoJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class com.alarmfm.radio.data.model.LanguageDto
+-keepnames class com.alarmfm.radio.data.model.LanguageDto
+-if class com.alarmfm.radio.data.model.LanguageDto
+-keep class com.alarmfm.radio.data.model.LanguageDtoJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class com.alarmfm.radio.data.model.StationDto
+-keepnames class com.alarmfm.radio.data.model.StationDto
+-if class com.alarmfm.radio.data.model.StationDto
+-keep class com.alarmfm.radio.data.model.StationDtoJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
+
+-if class com.alarmfm.radio.data.model.TagDto
+-keepnames class com.alarmfm.radio.data.model.TagDto
+-if class com.alarmfm.radio.data.model.TagDto
+-keep class com.alarmfm.radio.data.model.TagDtoJsonAdapter {
+    public <init>(com.squareup.moshi.Moshi);
+}
